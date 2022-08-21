@@ -17,7 +17,11 @@
     },
     {
       "name": "Bakugo",
+<<<<<<< HEAD
       "salary": "100000",
+=======
+      "salary": "1000000",
+>>>>>>> UC3_PromisesAndAjax
       "id": 4
     }
   ]
